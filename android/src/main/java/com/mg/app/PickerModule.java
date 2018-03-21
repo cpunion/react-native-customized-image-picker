@@ -74,7 +74,7 @@ class PickerModule extends ReactContextBaseJavaModule {
 
     @Override
     public String getName() {
-        return "ImageCropPicker";
+        return "CustomizedImagePicker";
     }
 
     private void setConfiguration(final ReadableMap options) {
